@@ -9,6 +9,6 @@
 
 </head>
 <body>
-<h1></h1>
+<h1>Phyton Project/ shopping cart</h1>
 </body>
-</html>
+
